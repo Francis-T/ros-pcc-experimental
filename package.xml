@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_pcc_module</name>
+  <version>0.0.1</version>
+  <description>
+    An experimental Point Cloud Compression package for ROS using mpeg-pcc-tmc13
+  </description>
+
+  <maintainer email="">Francis T</maintainer>
+  <author email="">Francis T</author>
+  <license>TODO</license>
+  <!-- <url type="website">http://wiki.ros.org/ros_pcc_module</url> -->
+
+  <!-- DEPENDENCIES -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
